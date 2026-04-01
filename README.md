@@ -23,10 +23,9 @@ A beautifully designed, fully interactive AI chatbot built with **Python**, **St
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| <img width="1756" height="777" alt="dark" src="https://github.com/user-attachments/assets/ea36a82f-519d-4b64-a701-e60526b913a9" />
+| <img width="1756" height="777" alt="dark" src="https://github.com/user-attachments/assets/ea36a82f-519d-4b64-a701-e60526b913a9" /> |
 
-| <img width="1748" height="776" alt="light" src="https://github.com/user-attachments/assets/c0496295-ebc3-439a-be68-b771a1e67230" />
-|
+| <img width="1748" height="776" alt="light" src="https://github.com/user-attachments/assets/c0496295-ebc3-439a-be68-b771a1e67230" />|
 
 > **See also:** 
 <img width="1740" height="770" alt="con" src="https://github.com/user-attachments/assets/68ed64c7-2cdf-496d-91ca-0cc0c4b181af" />
