@@ -2,7 +2,8 @@
 
 A beautifully designed, fully interactive AI chatbot built with **Python**, **Streamlit**, and **Groq**. Features a stunning dark/light mode UI, real-time chat, and a friendly AI assistant named Subi.
 
-<img width="1761" height="778" alt="Subiai" src="https://github.com/user-attachments/assets/10a845c5-cfcb-489b-8521-78c690b144ac" />
+<img width="1761" height="778" alt="Subiai" src="https://github.com/user-attachments/assets/7bdcd815-2675-449a-8cc4-1f3f5f5d4b84" />
+
 
 
 ---
@@ -22,12 +23,14 @@ A beautifully designed, fully interactive AI chatbot built with **Python**, **St
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| <img width="1756" height="777" alt="dark" src="https://github.com/user-attachments/assets/4ed0c01d-1670-45d1-9fdd-83bf165a3344" />
- |<img width="1748" height="776" alt="light" src="https://github.com/user-attachments/assets/ef583a4c-bf6a-4575-8909-3758c3818f8f" />
- |
+| <img width="1756" height="777" alt="dark" src="https://github.com/user-attachments/assets/ea36a82f-519d-4b64-a701-e60526b913a9" />
+
+| <img width="1748" height="776" alt="light" src="https://github.com/user-attachments/assets/c0496295-ebc3-439a-be68-b771a1e67230" />
+|
 
 > **See also:** 
-<img width="1740" height="770" alt="con" src="https://github.com/user-attachments/assets/9208e03e-06aa-479a-bfec-22a5a3c5bad5" />
+<img width="1740" height="770" alt="con" src="https://github.com/user-attachments/assets/68ed64c7-2cdf-496d-91ca-0cc0c4b181af" />
+
 
 ---
 
@@ -47,7 +50,7 @@ A beautifully designed, fully interactive AI chatbot built with **Python**, **St
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/subi-ai.git
+git clone  https://github.com/Sathyangi/Subi-AI.git
 cd subi-ai
 ```
 
@@ -92,22 +95,6 @@ Your chatbot opens at **http://localhost:8501** 🎉
 
 ---
 
-## 📁 Project Structure
-
-```
-subi-ai/
-├── app.py           ← Main chatbot application
-├── .env             ← Your API key (never commit this!)
-├── .gitignore       ← Protects your secrets
-├── README.md        ← You are here
-└── screenshots/     ← UI screenshots
-    ├── dark-mode.png
-    ├── light-mode.png
-    └── chat-example.png
-```
-
----
-
 ## ⚙️ Customization
 
 ### Change the bot's personality
@@ -138,7 +125,7 @@ MIT License — free to use, modify, and share.
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 - **Groq** — blazing fast free AI inference
 - **Streamlit** — effortless Python web apps
